@@ -117,3 +117,18 @@
 .logo img {
   filter: invert(1);
 }
+
+.nft {
+  display: flex; 
+  flex-direction: column;
+  text-align: center;
+  font-size: 3rem;
+  padding: 1rem;
+}  
+
+/* make the css class celebratory */
+.celebrateText{
+  font-size: 1.5rem;
+  padding: 1rem;
+  color: #f213a4;
+}
